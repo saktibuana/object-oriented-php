@@ -11,7 +11,7 @@ Using Hypertext Preprocessor (PHP) Language
 	<b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
 </p>
 
-<p>This project was just a proof of concept (read: POC) to my students or any public audience for this matter, merely anyone who trying to study the difference between Procedural and Object Oriented using native <i>Hypertext Preprocessor Programming Language</i> as known as <b>PHP</b>
+<p>This project was just a proof of concept (read: <b>POC</b>) to my students or any public audience for this matter, merely anyone who trying to study the difference between Procedural and Object Oriented using native <i>Hypertext Preprocessor Programming Language</i> as known as <b>PHP</b>
 
 <h4>Technology</h4>
 <ul>
@@ -24,6 +24,6 @@ Using Hypertext Preprocessor (PHP) Language
 
 <h4>Contacts</h4>
 <p>
-sakti.buana@arthipesa.com
-+6285720502217
+<a href="mailto:sakti.buana@arthipesa.com">sakti.buana@arthipesa.com</a>
+<a href="call:+6285720502217">+6285720502217</a>
 </p>
