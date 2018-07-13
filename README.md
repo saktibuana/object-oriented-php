@@ -4,11 +4,14 @@ Using Hypertext Preprocessor (PHP) Language
 <br/>
 
 <h4>Preambule</h4>
-<p><b>PHP: Hypertext Preprocessor</b> (or simply <b>PHP</b>) is a server-side scripting language designed for Web development but also used as a general-purpose programming language.
-<br/><b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
+<p>
+	<b>PHP: Hypertext Preprocessor</b> (or simply <b>PHP</b>) is a server-side scripting language designed for Web development but also used as a general-purpose programming language.
+</p>
+<p>	
+	<b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
 </p>
 
-<p>This project was just a proof of concept to my students or any public audience for this matter, merely anyone who trying to study the difference between Procedural and Object Oriented using native <i>Hypertext Preprocessor Programming Language</i> a.k.a <b>PHP</b>
+<p>This project was just a proof of concept to my students or any public audience for this matter, merely anyone who trying to study the difference between Procedural and Object Oriented using native <i>Hypertext Preprocessor Programming Language</i> as known as <b>PHP</b>
 
 <h4>Technology</h4>
 <ul>
