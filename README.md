@@ -5,7 +5,7 @@ Using Hypertext Preprocessor (PHP) Language
 
 <h4>Preambule</h4>
 <p><b>PHP: Hypertext Preprocessor</b> (or simply <b>PHP</b>) is a server-side scripting language designed for Web development but also used as a general-purpose programming language.
-<br/>PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.
+<br/><b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
 </p>
 
 <h4>Technology</h4>
@@ -14,9 +14,9 @@ Using Hypertext Preprocessor (PHP) Language
 <li>Object Oriented Programming Concept</li>
 <li>Bootstrap</li>
 </ul>
-</br>
-**Hope will be usefull for you all.**
 
-Contact Me :
+<h4>Contacts</h4>
+<p>
 sakti.buana@arthipesa.com
 +6285720502217
+</p>
