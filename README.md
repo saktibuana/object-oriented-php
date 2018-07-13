@@ -8,7 +8,7 @@ Using Hypertext Preprocessor (PHP) Language
 <br/>PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.
 </p>
 
-<h4>Technology used:</h4>
+<h4>Technology</h4>
 <ul>
 <li>Hypertext Preprocessor (PHP)</li>
 <li>Object Oriented Programming Concept</li>
