@@ -1,4 +1,4 @@
-# Object Oriented Hypertext Preprocessor (PHP)
+# Object Oriented Hypertext Preprocessor (OOPHP)
 Object Oriented Programming Concept Implementation 
 Using Hypertext Preprocessor (PHP) Language
 <br/>
@@ -7,6 +7,8 @@ Using Hypertext Preprocessor (PHP) Language
 <p><b>PHP: Hypertext Preprocessor</b> (or simply <b>PHP</b>) is a server-side scripting language designed for Web development but also used as a general-purpose programming language.
 <br/><b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
 </p>
+
+<p>This project was just a proof of concept to my students or audience, merely anyone who trying to study the difference between Procedural and Object Oriented using native </i> Hypertext Preprocessor Programming Language</i> a.k.a <b>PHP</b>
 
 <h4>Technology</h4>
 <ul>
