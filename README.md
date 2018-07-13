@@ -8,7 +8,7 @@ Using Hypertext Preprocessor (PHP) Language
 <br/><b>PHP</b> originally stood for <i>Personal Home Page</i>, but it now stands for the recursive acronym <b>PHP</b>: <i>Hypertext Preprocessor</i>.
 </p>
 
-<p>This project was just a proof of concept to my students or audience, merely anyone who trying to study the difference between Procedural and Object Oriented using native </i> Hypertext Preprocessor Programming Language</i> a.k.a <b>PHP</b>
+<p>This project was just a proof of concept to my students or any public audience for this matter, merely anyone who trying to study the difference between Procedural and Object Oriented using native <i>Hypertext Preprocessor Programming Language</i> a.k.a <b>PHP</b>
 
 <h4>Technology</h4>
 <ul>
