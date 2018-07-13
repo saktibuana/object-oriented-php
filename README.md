@@ -24,6 +24,6 @@ Using Hypertext Preprocessor (PHP) Language
 
 <h4>Contacts</h4>
 <p>
-<a href="mailto:sakti.buana@arthipesa.com">sakti.buana@arthipesa.com</a>
-<a href="call:+6285720502217">+6285720502217</a>
+<a href="mailto:sakti.buana@arthipesa.com">E - Mail</a>
+<a href="tel:+6285720502217">Call</a>
 </p>
