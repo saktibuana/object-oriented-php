@@ -22,9 +22,9 @@ Using Hypertext Preprocessor (PHP) Language
 <li>Bootstrap</li>
 </ul>
 
-<h4>Ways to contact</h4>
+<h4>Ways to contact author</h4>
 <ul>
 	<li><a href="mailto:sakti.buana@arthipesa.com">Email to sakti.buana@arthipesa.com</a></li>
 	<li><a href="tel:+6285720502217">Text/Call +6285720502217</a></li>
-	<li>Whatsapp Group Chat: <a href="https://chat.whatsapp.com/DyQQB7Y6jSqAnCANauLLgj">Indonesian</a> | <a href="https://chat.whatsapp.com/1oarLHGaDZEFbKv0LnCIwz">English</a></li>
+	<li>Whatsapp Group Chat: <a href="https://chat.whatsapp.com/DyQQB7Y6jSqAnCANauLLgj">Indonesian</a> or <a href="https://chat.whatsapp.com/1oarLHGaDZEFbKv0LnCIwz">English</a></li>
 </p>
