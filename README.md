@@ -1,4 +1,4 @@
-# Object Oriented Hypertext Preprocessor (OOPHP)
+# Object Oriented Hypertext Preprocessor (OO PHP)
 Object Oriented Programming Concept Implementation 
 Using Hypertext Preprocessor (PHP) Language
 <br/>
