@@ -22,8 +22,8 @@ Using Hypertext Preprocessor (PHP) Language
 <li>Bootstrap</li>
 </ul>
 
-<h4>Contacts</h4>
-<p>
-<a href="mailto:sakti.buana@arthipesa.com">E - Mail</a>
-<a href="tel:+6285720502217">Call</a>
+<h4>Ways to contact</h4>
+<ul>
+	<li><a href="mailto:sakti.buana@arthipesa.com">Email</a></li>
+	<li><a href="tel:+6285720502217">Call</a></li>
 </p>
