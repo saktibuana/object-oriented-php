@@ -26,5 +26,5 @@ Using Hypertext Preprocessor (PHP) Language
 <ul>
 	<li><a href="mailto:sakti@buana.studio">Email to sakti@buana.studio</a></li>
 	<li><a href="https://t.me/saktibuana">Telegram/Call @saktibuana</a></li>
-	<li>Whatsapp Group Chat: <a href="https://chat.whatsapp.com/DyQQB7Y6jSqAnCANauLLgj">Indonesian</a> or <a href="https://chat.whatsapp.com/1oarLHGaDZEFbKv0LnCIwz">English</a></li>
+	<li>Whatsapp Group Chat: <a href="https://chat.whatsapp.com/AxXIhHLPv90Eax2qiQXv8T">Indonesian</a> or <a href="https://chat.whatsapp.com/1oarLHGaDZEFbKv0LnCIwz">English</a></li>
 </p>
